@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-09T16:42:54 IST" name="Default suite" finished-at="2023-03-09T16:42:55 IST" duration-ms="1509">
+    <groups>
+    </groups>
+    <test started-at="2023-03-09T16:42:54 IST" name="Default test" finished-at="2023-03-09T16:42:55 IST" duration-ms="1509">
+      <class name="basics.MockJasonResponse">
+        <test-method signature="getCourseTitleAndPrice()[pri:0, instance:basics.MockJasonResponse@15c43bd9]" started-at="2023-03-09T16:42:54 IST" name="getCourseTitleAndPrice" finished-at="2023-03-09T16:42:55 IST" duration-ms="1139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCourseTitleAndPrice -->
+        <test-method signature="getPurchaseAmount()[pri:0, instance:basics.MockJasonResponse@15c43bd9]" started-at="2023-03-09T16:42:55 IST" name="getPurchaseAmount" finished-at="2023-03-09T16:42:55 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPurchaseAmount -->
+        <test-method signature="getRPAPrice()[pri:0, instance:basics.MockJasonResponse@15c43bd9]" started-at="2023-03-09T16:42:55 IST" name="getRPAPrice" finished-at="2023-03-09T16:42:55 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRPAPrice -->
+        <test-method signature="getTitleofFirstCourse()[pri:0, instance:basics.MockJasonResponse@15c43bd9]" started-at="2023-03-09T16:42:55 IST" name="getTitleofFirstCourse" finished-at="2023-03-09T16:42:55 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleofFirstCourse -->
+        <test-method signature="noOfCoursesByAPI()[pri:0, instance:basics.MockJasonResponse@15c43bd9]" started-at="2023-03-09T16:42:55 IST" name="noOfCoursesByAPI" finished-at="2023-03-09T16:42:55 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noOfCoursesByAPI -->
+        <test-method signature="validateTotalPrice()[pri:0, instance:basics.MockJasonResponse@15c43bd9]" started-at="2023-03-09T16:42:55 IST" name="validateTotalPrice" finished-at="2023-03-09T16:42:55 IST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTotalPrice -->
+      </class> <!-- basics.MockJasonResponse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
